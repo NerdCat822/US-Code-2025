@@ -1,5 +1,3 @@
-🏆 2025 Us:Code 해커톤 in 의성 by Google for Developer, 의성군 - 우수상 수상 – Team 갈릭홀릭
-
 ## 💡 우리가 만든 서비스는?
 
 ### 🎙️ **치매 예방을 위한 음성 대화 기반 AI 챗봇**
