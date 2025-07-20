@@ -1,3 +1,5 @@
+🏆 2025 Us:Code 해커톤 in 의성 by Google for Developer, 의성군 - 우수상 수상 – Team 갈릭홀릭
+
 ## 💡 우리가 만든 서비스는?
 
 ### 🎙️ **치매 예방을 위한 음성 대화 기반 AI 챗봇**
@@ -5,6 +7,39 @@
 고령화가 심각한 지역, **의성군**의 현실을 마주하고  
 “**기술로 고립된 노년층의 일상에 어떻게 힘을 줄 수 있을까?**”  
 라는 질문에서 출발했습니다.
+
+---
+
+## 🎬 시연영상
+
+https://github.com/user-attachments/assets/9535b254-c61c-4619-b733-624f1dcfe088
+
+### 📸 일일 리포트 결과
+![일일 리포트 결과](https://github.com/user-attachments/assets/bc443db5-85e7-4930-807a-66bea9b77100)
+
+---
+
+## 🌿 기획 및 설계
+
+### 🎯 기획 포인트
+![기획 포인트 1](https://github.com/user-attachments/assets/a8417421-7393-4f09-83f1-8954c6446725)
+![기획 포인트 2](https://github.com/user-attachments/assets/a1215977-0dd6-4bd0-a4a9-3710758bb370)
+![기획 포인트 3](https://github.com/user-attachments/assets/652751fe-b257-4c77-bf38-3d0bd7878c4d)
+![기획 포인트 4](https://github.com/user-attachments/assets/c2f756d3-51ff-4e13-bf60-b1f747059be4)
+
+### 📋 문제 해결 제안
+![문제 해결 1](https://github.com/user-attachments/assets/d099e071-373a-4886-8ee6-2b5152c28d9e)
+![문제 해결 2](https://github.com/user-attachments/assets/ba8f51ee-d07b-42d9-8923-99600ffcacc8)
+![문제 해결 3](https://github.com/user-attachments/assets/f960d40f-274e-45d3-afef-263e3b4d150a)
+![문제 해결 4](https://github.com/user-attachments/assets/0250db3a-db03-444c-9baa-baedc99d2a53)
+
+### 📋️ 시스템 아키텍처 상세
+![시스템 아키텍처 1](https://github.com/user-attachments/assets/f5208780-0194-4912-af43-1ef8bd64e6b3)
+![시스템 아키텍처 2](https://github.com/user-attachments/assets/c7ea8fa8-f96a-416b-bc48-a5dc5b065819)
+
+### ⚙️ 기능 상세
+![기능 1](https://github.com/user-attachments/assets/6764ce30-cf6a-443d-92f7-dbda9870dff5)
+![기능 2](https://github.com/user-attachments/assets/be1cb275-4cb2-4866-8379-d510800eeb9e)
 
 ---
 
@@ -69,6 +104,30 @@
 
 - **MVP 시나리오 플로우**  
   `음성 대화 → 대화 내용 분석 → 건강 상태 진단 → 보호자 알림 및 리포트 전송`
+
+---
+
+## 🛠️ 기술 스택
+
+### Frontend
+- **Next.js** - React 기반 풀스택 프레임워크
+- **TypeScript** - 타입 안정성 확보
+- **Tailwind CSS** - 유틸리티 기반 스타일링
+- **WebSpeech API** - 브라우저 기반 음성 인식
+- **GCP-TTS** - Google Cloud Text-to-Speech
+
+### Backend
+- **Spring Boot** - Java 기반 웹 프레임워크
+- **MySQL** - 관계형 데이터베이스
+- **Docker** - 컨테이너화 및 배포
+
+### AI Service
+- **Python** - AI/ML 개발 언어
+- **FastAPI** - 고성능 웹 API 프레임워크
+- **LangGraph** - 멀티 에이전트 구조 구현
+- **Gemini API** - Google의 대화형 AI 모델
+- **FAISS** - 벡터 유사도 검색
+- **CLAP** - 음성-텍스트 임베딩 모델
 
 ---
 
